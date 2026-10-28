@@ -91,16 +91,16 @@ lib/
 ## 📸 App Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
  
 ### Visitor List
-![Visitor List](screenshots/visitor_list.png)
+![Visitor List](screenshots/visitor_list.jpeg)
 
 ### Visitor Registration
-![Visitor Registration](screenshots/registration.png)
+![Visitor Registration](screenshots/registration.jpeg)
 
 ### Visitor Details
-![Visitor Details](screenshots/visitor_details.png)
+![Visitor Details](screenshots/visitor_details.jpeg)
 
 ## Architectural Highlights
 - Immutability & Safety: Models utilize custom const constructors and unmodifiable list wrappers (List.unmodifiable) to guarantee data integrity across widget boundaries.
